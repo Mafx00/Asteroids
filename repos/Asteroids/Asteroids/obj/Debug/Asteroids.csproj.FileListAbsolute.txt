@@ -1,0 +1,10 @@
+C:\Users\gogre\source\repos\Asteroids\Asteroids\bin\Debug\Asteroids.exe.config
+C:\Users\gogre\source\repos\Asteroids\Asteroids\bin\Debug\Asteroids.exe
+C:\Users\gogre\source\repos\Asteroids\Asteroids\bin\Debug\Asteroids.pdb
+C:\Users\gogre\source\repos\Asteroids\Asteroids\obj\Debug\Asteroids.csprojAssemblyReference.cache
+C:\Users\gogre\source\repos\Asteroids\Asteroids\obj\Debug\Asteroids.Form1.resources
+C:\Users\gogre\source\repos\Asteroids\Asteroids\obj\Debug\Asteroids.Properties.Resources.resources
+C:\Users\gogre\source\repos\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.GenerateResource.cache
+C:\Users\gogre\source\repos\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.CoreCompileInputs.cache
+C:\Users\gogre\source\repos\Asteroids\Asteroids\obj\Debug\Asteroids.exe
+C:\Users\gogre\source\repos\Asteroids\Asteroids\obj\Debug\Asteroids.pdb
